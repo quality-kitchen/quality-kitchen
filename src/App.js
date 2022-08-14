@@ -1,10 +1,13 @@
 import "./App.css"
+import logo from './images/logo.png'
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello quality-kitchen</h1>
-      <h2>Welcome</h2>
+      <div className="App-header">
+      <img src={logo} />
+      <h1>Coming Soon ...</h1>
+    </div>
     </div>
   );
 }
