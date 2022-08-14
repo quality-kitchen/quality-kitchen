@@ -7,7 +7,7 @@ export default function ComingSoon() {
     return (
         <Container>
             <Row>
-                <img className="logo-image" src={logo} />
+                <img className="logo-image" src={logo} alt="logo" />
             </Row>
             <Row>
                 <h1>Coming Soon ...</h1>
