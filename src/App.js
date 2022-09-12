@@ -1,10 +1,9 @@
-import "./App.css"
+import ComingSoon from "./components/comingsoon/comingsoon";
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello quality-kitchen</h1>
-      <h2>Welcome</h2>
+      <ComingSoon />
     </div>
   );
 }
