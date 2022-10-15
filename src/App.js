@@ -1,9 +1,9 @@
-import ComingSoon from "./components/views/ComingSoon";
+import Login from "./components/Login";
 
 function App() {
   return (
     <div className="App">
-      <ComingSoon />
+      <Login />
     </div>
   );
 }
